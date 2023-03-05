@@ -14,4 +14,4 @@
   * To get the animation *usleep()* function from unistd is used for delaying each printing operation.
   
 ## Output
-  
+  ![This is the output](/Sample_Output.png)
