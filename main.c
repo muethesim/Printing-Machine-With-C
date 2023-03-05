@@ -43,9 +43,9 @@ void display(int sizer, int arr[]) {
             printf("*");
         }
         else {
-            usleep(6000);
+            usleep(1500);
             printf("*");
-            usleep(6000);
+            usleep(1500);
             printf("\b ");
         }
     }
