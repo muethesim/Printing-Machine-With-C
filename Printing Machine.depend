@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1677962614 source:d:\mts\c\printing machine\main.c
+1677962738 source:d:\mts\c\printing machine\main.c
 	<stdio.h>
 	<stdbool.h>
 	<unistd.h>

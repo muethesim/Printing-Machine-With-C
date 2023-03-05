@@ -43,8 +43,10 @@ void display(int sizer, int arr[]) {
             printf("*");
         }
         else {
-            usleep(3000);
-            printf(" ");
+            usleep(6000);
+            printf("*");
+            usleep(6000);
+            printf("\b ");
         }
     }
 }
